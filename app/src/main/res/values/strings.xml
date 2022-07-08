@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AWSFaceRekognition</string>
+    <string name="face_reko">Face Rekognition</string>
+    <string name="aws_face_reko">AWS Face Rekognition</string>
+    <string name="face_not_matched">Oops.... Face not matched</string>
+    <string name="access_keys_message">Please check your access keys...</string>
+    <string name="please_wait">Please wait...</string>
+</resources>
