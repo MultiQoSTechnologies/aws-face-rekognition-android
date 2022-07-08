@@ -2,6 +2,7 @@ package com.multiqos.awsfacerekognition
 
 import android.app.Application
 
+/**Application class*/
 class App : Application() {
 
     override fun onCreate() {
